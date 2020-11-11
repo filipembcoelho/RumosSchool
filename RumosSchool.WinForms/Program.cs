@@ -17,6 +17,9 @@ namespace RumosSchool.WinForms
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+
+
         }
     }
 }
