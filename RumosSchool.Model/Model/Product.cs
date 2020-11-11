@@ -12,6 +12,7 @@ namespace RumosSchool.Model.Model
         public string Name { get; set; }
         public decimal UnitPrice { get; set; }
 
+        // public int MyProperty { get; set; }
         public Product()
         {
         }

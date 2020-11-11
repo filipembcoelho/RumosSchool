@@ -11,7 +11,8 @@ namespace RumosSchool.Model.Model
         public int Id { get; set; }
         public string Name { get; set; }
         public DateTime BirthDate { get; set; }
-        
+
+        // public int MyProperty { get; set; }
         private int _age;
         public int Age
         {

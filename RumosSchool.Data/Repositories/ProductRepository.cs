@@ -13,6 +13,7 @@ namespace RumosSchool.Data.Repositories
 {
     public class ProductRepository
     {
+        // public int MyProperty { get; set; }
         private static string _cs;
         private static int _colProductId = 0;
         private static int _colProductName = 1;
